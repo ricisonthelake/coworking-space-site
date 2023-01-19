@@ -3,6 +3,7 @@ body {
     padding: 0;
     font-family: 'Montserrat', sans-serif;
     color: #282828;
+
 }
 
 header {
@@ -72,6 +73,7 @@ button {
     border: none;
     background-color: #cd6858;
     color: whitesmoke;
+    margin-right: 30px;
     padding: 10px 15px;
     font-weight: 700;
     cursor: pointer;
@@ -87,7 +89,7 @@ button {
     height: 40px;
     border-radius: 50%;
     cursor: pointer;
-    box-shadow:1px 1px 5px #999;
+    box-shadow: 1px 1px 5px #999;
 }
 
 .chatbox-img {
