@@ -22,7 +22,7 @@ ul {
     align-items: center;
     margin: 0;
     padding: 25px;
-    gap: 10px
+    gap: 10px;
 }
 
 li {
@@ -72,9 +72,9 @@ button {
     align-self: center;
     border: none;
     background-color: #cd6858;
+    padding: 10px 15px;
     color: whitesmoke;
     margin-right: 30px;
-    padding: 10px 15px;
     font-weight: 700;
     cursor: pointer;
 }
